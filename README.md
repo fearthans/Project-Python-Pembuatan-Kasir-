@@ -1,1 +1,1 @@
-#Project Python Pembuatan Kasir
+# Project Python Pembuatan Kasir
